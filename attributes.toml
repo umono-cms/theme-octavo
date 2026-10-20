@@ -1,0 +1,4 @@
+schema = "https://umono.dev/schemas/theme-attributes/v1"
+
+[address."page IMAGE"]
+sizes = "(min-width: 48rem) 42rem, 100vw"

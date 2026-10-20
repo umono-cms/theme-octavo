@@ -1,0 +1,13 @@
+schema = "https://umono.dev/schemas/theme-manifest/v1"
+id = "umono/octavo"
+contract = "umono/page@v0.1"
+name = "Octavo"
+version = "0.1.0"
+description = "A modern, plain theme for sites with a header, a menu, free content and a footer."
+license = "MIT"
+homepage = "https://github.com/umono-cms/theme-octavo"
+repository = "https://github.com/umono-cms/theme-octavo"
+
+[[authors]]
+name = "Umono"
+url = "https://umono.io"
